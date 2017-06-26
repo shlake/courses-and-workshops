@@ -5,6 +5,7 @@ This repository contains curriculum and materials for courses and workshops taug
 If you are not looking for the repository, but simply the curriculum materials, please see the [hosted version](https://umiamilibraries.github.io/courses-and-workshops/). 
 
 The repository was started through the Data Curation Initiative (http://library.miami.edu/datacuration) at the University of Miami Libraries (http://library.miami.edu).
+More changes by Sherry Lake.
 
 ---
 
